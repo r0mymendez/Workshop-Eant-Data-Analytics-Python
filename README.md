@@ -5,4 +5,4 @@ Realizamos una actividad online con [Kari Bartolome](https://github.com/karbarto
 * **Para ver el taller nuevamente**
 En este [link]() puedes encontrar el video con la resolución del taller.
 
-<img src="https://github.com/karbartolome/workshop_api_transporte_mapas/blob/master/mapa.png"></img>
+<img src="https://github.com/r0mymendez/Workshop-Eant-Data-Analytics-Python/blob/master/plot.png"></img>
